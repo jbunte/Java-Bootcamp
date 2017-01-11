@@ -1,1 +1,2 @@
+#RockPaperScissors
 A small game I created using Java. The user interacts via the console, choosing either rock, paper, or scissors. The computer automatically selects an option and tells you whether you won, lost, or tied. The game is repeatable, and the number of wins, losses, and ties are tracked until the user doesn't want to play anymore. Includes a main class and a class that validates the information entered.
